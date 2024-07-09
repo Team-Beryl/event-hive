@@ -11,7 +11,7 @@ const Landing = () => {
             <UpcomingEvent />
             <Brands />
             <Blogs />
-            <footer />
+        
 
         </div>
     )
